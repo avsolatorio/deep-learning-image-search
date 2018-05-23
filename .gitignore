@@ -1,3 +1,7 @@
+#
+src/scraper/*.log
+src/scraper/*.hdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

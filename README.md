@@ -1,7 +1,7 @@
 # Deep Learning for Image Search
 This is the repository for the Python PH talk about Deep Learning for Unstructured Data: Application on Image Search
 
-I was fortunate enough to be able to share my experiences with Deep Learning at one of the [PythonPH's meetups](https://www.meetup.com/pythonph/events/250643274/) in partnership with [Kalibrr](https://www.kalibrr.com).
+I was fortunate enough to be able to share my expertise with Deep Learning at one of the [PythonPH's meetups](https://www.meetup.com/pythonph/events/250643274/) in partnership with [Kalibrr](https://www.kalibrr.com).
 
 I talked about how we can leverage Python and its rich scientific and data analysis toolkits to create a working image search engine.
 I also emphasized the importance of abstract vector spaces and the general technique of joint training of different models to merge two different vector spaces.
@@ -27,3 +27,4 @@ The link above presents an overview on machine learning, deep learning, unstruct
 # [Demo jupyter notebook slide](http://htmlpreview.github.io/?https://github.com/avsolatorio/deep-learning-image-search/blob/master/src/models/Image%20Search%20Model.slides.html#/)
 
 The link to the demo contains technical details in building a working protoype for an Image Search Engine with unsupervised image-title-caption dataset scraped from the internet.
+

@@ -8,10 +8,16 @@ I also emphasized the importance of abstract vector spaces and the general techn
 
 # Model examples
 
-![query](/image-search-image-query.png)
+![image-query](/image-search-image-query.png)
 
 ## Results
-![results](/image-search-image-results.png)
+![image-results](/image-search-image-results.png)
+
+## Query by text
+![text-query](/image-search-text-query.png)
+
+## Results
+![text-results](/image-search-text-results.png)
 
 # [Introductory slides](https://docs.google.com/presentation/d/177ujeYeFYf9tPiaR409HDfMMwqCiF85WUUgSeOZHsnE/)
 

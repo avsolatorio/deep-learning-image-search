@@ -28,3 +28,4 @@ The link above presents an overview on machine learning, deep learning, unstruct
 
 The link to the demo contains technical details in building a working protoype for an Image Search Engine with unsupervised image-title-caption dataset scraped from the internet.
 
+# [NbViewer Link](https://nbviewer.jupyter.org/github/avsolatorio/deep-learning-image-search/blob/master/src/models/Image%20Search%20Model.ipynb)
